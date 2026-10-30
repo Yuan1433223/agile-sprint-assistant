@@ -1,0 +1,13 @@
+# 个人提示/协作交接文档
+HANDOFF.md
+
+# 比赛材料（对 Skill 使用者无帮助）
+contest/
+demos/
+
+# 工具临时/审查文件
+.arts/
+.review/
+
+# 临时发布目录
+_publish/
